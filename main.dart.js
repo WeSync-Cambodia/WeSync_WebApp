@@ -31296,7 +31296,7 @@ var $async$a4N=A.A(function(a,b){if(a===1)return A.B(b,r)
 while(true)switch(s){case 0:if($.a7==null)A.atm()
 $.a7.toString
 s=2
-return A.t(A.arr("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZxdWtzdGx0anFvbHpnb2tyaWNhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTYyMTk2NTQsImV4cCI6MjA3MTc5NTY1NH0.ub642fT8CQ5oSqjIEIgXgO-KT-tGmV3U9o29J0tzMRc","https://fqukstltjqolzgokrica.supabase.co"),$async$a4N)
+return A.t(A.arr("YOUR_PUBLIC_ANON_KEY","https://YOUR_PROJECT.supabase.co"),$async$a4N)
 case 2:s=3
 return A.t($.dP().uU(),$async$a4N)
 case 3:if($.a7==null)A.atm()
