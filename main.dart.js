@@ -31301,8 +31301,9 @@ a57(){var s=0,r=A.D(t.H),q,p,o,n,m,l,k
 var $async$a57=A.y(function(a,b){if(a===1)return A.A(b,r)
 while(true)switch(s){case 0:if($.a7==null)A.aue()
 $.a7.toString
+A.a1("Initializing Supabase with URL: https://fqukstltjqolzgokrica.supabase.co")
 s=2
-return A.r(A.asj("",""),$async$a57)
+return A.r(A.asj("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZxdWtzdGx0anFvbHpnb2tyaWNhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTYyMTk2NTQsImV4cCI6MjA3MTc5NTY1NH0.ub642fT8CQ5oSqjIEIgXgO-KT-tGmV3U9o29J0tzMRc","https://fqukstltjqolzgokrica.supabase.co"),$async$a57)
 case 2:s=3
 return A.r($.cy().uZ(),$async$a57)
 case 3:if($.a7==null)A.aue()
